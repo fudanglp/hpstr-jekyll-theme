@@ -1,29 +1,31 @@
-title:            Site Title
-description:      Describe your website here.
+host: www.fudanglp.com
+port: 80
+title:            Guolipeng's
+description:      Sharing my work with my friends here
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: http://www.fudanglp.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Guo Lipeng
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "A Super Lazy Guy."
+  email:          10110240002@fudan.edu.cn
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         fudanglp
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:
 
 # Background image to be tiled on all pages
 background: 
